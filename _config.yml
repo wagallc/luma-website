@@ -78,7 +78,7 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#7674F3"
+topbar_color                              : "#000000"
 topbar_transparency                       : 0.8
 topbar_title_color                        : "#ffffff"
 
