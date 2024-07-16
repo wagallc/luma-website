@@ -94,7 +94,7 @@ You can control your choices regarding our collection, use and sharing of your i
 
 Further, you may exercise your right to data portability, which means that you have the right to receive the Personal Information processed about you in a structured, commonly used and machine-readable i.e. HTML format. Please note that some of the rights above only may be exercised in certain situations, e.g. the right to data portability, which only applies when the processing is carried out on the basis of an agreement or a consent and if the processing is carried out by automated means. In case you have any questions regarding how we process your Personal Information, want to exercise any of your rights or want to know more about the rights, you may contact us as indicated below.
 
-E-mail address: [harsh@VIMO.io](mailto:harsh@VIMO.io)
+E-mail address: [abc@aiwaga.com](mailto:abc@aiwaga.com)
 
 You agree to receive marketing information from us. If you do not want us to process your Personal Information for direct marketing, you can give written notice thereof to us.
 
