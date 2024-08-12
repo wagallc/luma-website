@@ -1,5 +1,5 @@
 #page title
-page_title                                : VIMO                         # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : VIGO                         # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 6529525848                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -11,7 +11,7 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/applogo.png                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : VIMO - ai.video maker&creator            # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : VIGO - ai.video maker&creator            # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : ai.video maker&creator
 
